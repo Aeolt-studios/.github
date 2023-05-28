@@ -12,8 +12,8 @@
 Welcome to the official Avian studios Github!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=red"/>
 ## Our Team
-* Akhilesh vaghela (owner)
-* Messyme(Developer)
+* Akhilesh vaghela (Owner)
+* Messyme2 (Developer)
 ## 🔗 Links
 [![email](https://img.shields.io/badge/✉️Email-0A66C2?style=for-the-badge&l)](mailto:TheAvian@proton.me)
 [![web](https://img.shields.io/badge/🌐Website-grey?style=for-the-badge&logo=website&logoColor=white)](https://hewol.github.io/)
