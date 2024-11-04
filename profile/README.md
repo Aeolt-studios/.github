@@ -8,8 +8,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Avian studios
-Welcome to the official Avian studios Github!
+# Aeolt studios
+Welcome to the official Aeolt studios Github!
 ### <img height="35" src="https://komarev.com/ghpvc/?username=hewol&style=for-the-badge&color=red"/>
 ## Our Team
 * Akhilesh vaghela (Owner)
